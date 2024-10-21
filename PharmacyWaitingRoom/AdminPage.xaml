@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PharmacyWaitingRoom.AdminPage"
+             Title="Admin Panel">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+
+        <!-- Title -->
+        <Label Text="Admin Panel - Serving Tickets"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <!-- Current ticket being served -->
+        <Label Text="Now Serving Ticket:"
+               FontSize="20" 
+               HorizontalOptions="Center" />
+
+        <Label x:Name="ServingTicketLabel"
+               FontSize="48"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" 
+               Text="T001"/>
+
+        <!-- Button to advance to the next ticket -->
+        <Button Text="Serve Next Ticket"
+                FontSize="18"
+                Clicked="OnNextTicketClicked" />
+
+        <Button Text="Go to Aptient Panel"
+        FontSize="18"
+        Clicked="OnAdminClicked"
+        HorizontalOptions="End" />
+
+    </VerticalStackLayout>
+</ContentPage>

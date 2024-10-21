@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PharmacyWaitingRoom.MainPage"
+             Title="Pharmacy Ticket System">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+
+        <!-- Title -->
+        <Label Text="Welcome to the Pharmacy"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <!-- Current ticket number -->
+        <Label Text="Your Ticket Number:"
+               FontSize="20" 
+               HorizontalOptions="Center" />
+
+        <!-- Dynamic ticket number -->
+        <Label x:Name="TicketNumberLabel"
+               FontSize="48"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" 
+               Text="T001"/>
+
+        <!-- Generate ticket button -->
+        <Button Text="Generate Ticket"
+                FontSize="18"
+                Clicked="OnGenerateTicketClicked" />
+
+        <Button Text="Go to Admin Panel"
+        FontSize="18"
+        Clicked="OnAdminClicked"
+        HorizontalOptions="End" />
+
+
+    </VerticalStackLayout>
+</ContentPage>
+
