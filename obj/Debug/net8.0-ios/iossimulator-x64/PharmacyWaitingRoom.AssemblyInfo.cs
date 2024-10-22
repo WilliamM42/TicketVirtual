@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PharmacyWaitingRoom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9530cff6577bcf924d100e9436ce317abb63e050")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f23761e96ad99826ee05fadde222dee0c3eb9e23")]
 [assembly: System.Reflection.AssemblyProductAttribute("PharmacyWaitingRoom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PharmacyWaitingRoom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
