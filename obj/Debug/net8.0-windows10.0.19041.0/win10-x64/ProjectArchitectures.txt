@@ -1,1 +1,1 @@
-C:\Users\willi\OneDrive\Área de Trabalho\FilaSus\PharmacyWaitingRoom.csproj;x64
+C:\Users\willi\source\repos\PharmacyWaitingRoom\PharmacyWaitingRoom.csproj;x64

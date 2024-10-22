@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQWBkJ32JMM=",
+  "dgSpecHash": "hdLKiXMd224=",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\OneDrive\\Área de Trabalho\\FilaSus\\PharmacyWaitingRoom.csproj",
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\PharmacyWaitingRoom\\PharmacyWaitingRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
