@@ -12,41 +12,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PharmacyWaitingRoom
-build_property.ProjectDir = C:\Users\willi\source\repos\PharmacyWaitingRoom\
+build_property.ProjectDir = C:\Users\willi\OneDrive\Área de Trabalho\FilaSus\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/AdminPage.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/AdminPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.AdminPage.xaml
 build_metadata.AdditionalFiles.TargetPath = AdminPage.xaml
 build_metadata.AdditionalFiles.RelativePath = AdminPage.xaml
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/App.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/AppShell.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/MainPage.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/Resources/Styles/Colors.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/willi/source/repos/PharmacyWaitingRoom/Resources/Styles/Styles.xaml]
+[C:/Users/willi/OneDrive/Área de Trabalho/FilaSus/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PharmacyWaitingRoom.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

@@ -32924,11 +32924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\PharmacyWaitingRoom\\PharmacyWaitingRoom.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Área de Trabalho\\FilaSus\\PharmacyWaitingRoom.csproj",
       "projectName": "PharmacyWaitingRoom",
-      "projectPath": "C:\\Users\\willi\\source\\repos\\PharmacyWaitingRoom\\PharmacyWaitingRoom.csproj",
+      "projectPath": "C:\\Users\\willi\\OneDrive\\Área de Trabalho\\FilaSus\\PharmacyWaitingRoom.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\source\\repos\\PharmacyWaitingRoom\\obj\\",
+      "outputPath": "C:\\Users\\willi\\OneDrive\\Área de Trabalho\\FilaSus\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
